@@ -1,2 +1,2 @@
 # my-games
-app-ads
+app-ads upload
